@@ -35,6 +35,5 @@ Observation:
               Before calling the function, one needs to input
              type of moisture.
              Moisture are of two types: 1 and 2
-             
-             Output is of the chemical elements present in the soil and the type of the chemical which are helpful for the farmers
+            Output is of the chemical elements present in the soil and the type of the chemical which are helpful for the farmers
 
