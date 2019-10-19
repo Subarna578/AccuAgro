@@ -1,4 +1,4 @@
-# Agrovit
+# AquaAgro
 
 ![Smart Agriculture](./download.jpeg)
 
