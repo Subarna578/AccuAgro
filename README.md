@@ -1,4 +1,4 @@
-# AquaAgro
+                                              # AccuAgro
 
 ![Smart Agriculture](./download.jpeg)
 
